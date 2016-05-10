@@ -9,7 +9,7 @@ Siv3D(January 2016)
 
 ## install
 準備中  
-Visual Studio 2015からソース管理機能を使ってpullしてください
+Visual Studio 2015からソース管理機能を使ってcloneしてください
 
 ## Usage
 実行するとスライダー式カラーバーと選択カラー表示用の四角形, 選択カラーのRGB値が表示されます。
